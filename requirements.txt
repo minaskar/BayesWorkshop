@@ -1,0 +1,5 @@
+zeus-mcmc
+matplotlib
+seaborn
+numpy
+scipy
