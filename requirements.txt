@@ -1,4 +1,5 @@
 zeus-mcmc
+arianna
 matplotlib
 seaborn
 numpy
